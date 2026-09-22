@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="VNGearSport.Admin/VNGearSport.Admin.csproj" />
+  <Project Path="VNGearSport.API/VNGearSport.API.csproj" />
+  <Project Path="VNGearSport.Data/VNGearSport.Data.csproj" />
+  <Project Path="VNGearSport.Models/VNGearSport.Models.csproj" />
+  <Project Path="VNGearSport.Tests/VNGearSport.Tests.csproj" />
+  <Project Path="VNGearSport.Web/VNGearSport.Web.csproj" />
+</Solution>

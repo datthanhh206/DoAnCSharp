@@ -1,0 +1,15 @@
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\bin\Debug\net10.0-windows\VNGearSport.Admin.exe
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\bin\Debug\net10.0-windows\VNGearSport.Admin.deps.json
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\bin\Debug\net10.0-windows\VNGearSport.Admin.runtimeconfig.json
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\bin\Debug\net10.0-windows\VNGearSport.Admin.dll
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\bin\Debug\net10.0-windows\VNGearSport.Admin.pdb
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\obj\Debug\net10.0-windows\VNGearSport.Admin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\obj\Debug\net10.0-windows\VNGearSport.Admin.AssemblyInfoInputs.cache
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\obj\Debug\net10.0-windows\VNGearSport.Admin.AssemblyInfo.cs
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\obj\Debug\net10.0-windows\VNGearSport.Admin.csproj.CoreCompileInputs.cache
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\obj\Debug\net10.0-windows\VNGearSport.Admin.sourcelink.json
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\obj\Debug\net10.0-windows\VNGearSport.Admin.dll
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\obj\Debug\net10.0-windows\refint\VNGearSport.Admin.dll
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\obj\Debug\net10.0-windows\VNGearSport.Admin.pdb
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\obj\Debug\net10.0-windows\VNGearSport.Admin.genruntimeconfig.cache
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Admin\obj\Debug\net10.0-windows\ref\VNGearSport.Admin.dll

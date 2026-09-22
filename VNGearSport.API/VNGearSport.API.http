@@ -1,0 +1,6 @@
+@VNGearSport.API_HostAddress = http://localhost:5078
+
+GET {{VNGearSport.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

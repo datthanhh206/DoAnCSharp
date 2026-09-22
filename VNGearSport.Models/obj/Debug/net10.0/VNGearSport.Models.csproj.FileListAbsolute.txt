@@ -1,0 +1,12 @@
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\bin\Debug\net10.0\VNGearSport.Models.deps.json
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\bin\Debug\net10.0\VNGearSport.Models.dll
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\bin\Debug\net10.0\VNGearSport.Models.pdb
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\obj\Debug\net10.0\VNGearSport.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\obj\Debug\net10.0\VNGearSport.Models.AssemblyInfoInputs.cache
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\obj\Debug\net10.0\VNGearSport.Models.AssemblyInfo.cs
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\obj\Debug\net10.0\VNGearSport.Models.csproj.CoreCompileInputs.cache
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\obj\Debug\net10.0\VNGearSport.Models.sourcelink.json
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\obj\Debug\net10.0\VNGearSport.Models.dll
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\obj\Debug\net10.0\refint\VNGearSport.Models.dll
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\obj\Debug\net10.0\VNGearSport.Models.pdb
+E:\Downloads\code\C#\DoAnCSharp\VNGearSport.Models\obj\Debug\net10.0\ref\VNGearSport.Models.dll
